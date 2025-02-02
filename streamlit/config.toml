@@ -5,3 +5,7 @@ port = 10000
 [browser]
 serverAddress = "0.0.0.0"
 serverPort = 10000
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.30.0"
